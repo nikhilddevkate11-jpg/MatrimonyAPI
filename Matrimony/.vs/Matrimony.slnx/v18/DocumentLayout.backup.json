@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|d:\\nikhil\\visual_studio_applications\\matrimonyapi\\matrimony\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|d:\\nikhil\\visual_studio_applications\\matrimonyapi\\matrimony\\repositories\\implementations\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|solutionrelative:repositories\\implementations\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|d:\\nikhil\\visual_studio_applications\\matrimonyapi\\matrimony\\repositories\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|solutionrelative:repositories\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|d:\\nikhil\\visual_studio_applications\\matrimonyapi\\matrimony\\services\\implementations\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|solutionrelative:services\\implementations\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|d:\\nikhil\\visual_studio_applications\\matrimonyapi\\matrimony\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|solutionrelative:controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|d:\\nikhil\\visual_studio_applications\\matrimonyapi\\matrimony\\models\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|solutionrelative:models\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|d:\\nikhil\\visual_studio_applications\\matrimonyapi\\matrimony\\models\\dtos\\country\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|solutionrelative:models\\dtos\\country\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|d:\\nikhil\\visual_studio_applications\\matrimonyapi\\matrimony\\services\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|solutionrelative:services\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|d:\\nikhil\\visual_studio_applications\\matrimonyapi\\matrimony\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|d:\\nikhil\\visual_studio_applications\\matrimonyapi\\matrimony\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|d:\\nikhil\\visual_studio_applications\\matrimonyapi\\matrimony\\models\\dtos\\country\\updatecountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|solutionrelative:models\\dtos\\country\\updatecountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|d:\\nikhil\\visual_studio_applications\\matrimonyapi\\matrimony\\models\\dtos\\country\\createcountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F352AB0E-AC1F-CEF9-4105-3D0DE3830E8F}|Matrimony.csproj|solutionrelative:models\\dtos\\country\\createcountrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwEoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T15:55:28.763Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T15:54:29.095Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Services\\Implementations\\CountryService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CountryService.cs",
+              "ToolTip": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Services\\Implementations\\CountryService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CountryService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAMwFsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:08:50.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryDto.cs",
+              "DocumentMoniker": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Models\\DTOs\\Country\\CountryDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Country\\CountryDto.cs",
+              "ToolTip": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Models\\DTOs\\Country\\CountryDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\Country\\CountryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:03:11.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountriesController.cs",
+              "ToolTip": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Controllers\\CountriesController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:09:55.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Models\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Country.cs",
+              "ToolTip": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Models\\Entities\\Country.cs",
+              "RelativeToolTip": "Models\\Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:27:09.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Repositories\\Interfaces\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICountryRepository.cs",
+              "ToolTip": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Repositories\\Interfaces\\ICountryRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ICountryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:04:37.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Repositories\\Implementations\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\CountryRepository.cs",
+              "ToolTip": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Repositories\\Implementations\\CountryRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\CountryRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:05:05.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Services\\Interfaces\\ICountryService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICountryService.cs",
+              "ToolTip": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Services\\Interfaces\\ICountryService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICountryService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAxwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:07:51.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:22:47.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateCountryDto.cs",
+              "DocumentMoniker": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Models\\DTOs\\Country\\UpdateCountryDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Country\\UpdateCountryDto.cs",
+              "ToolTip": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Models\\DTOs\\Country\\UpdateCountryDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\Country\\UpdateCountryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:04:01.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCountryDto.cs",
+              "DocumentMoniker": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Models\\DTOs\\Country\\CreateCountryDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Country\\CreateCountryDto.cs",
+              "ToolTip": "D:\\Nikhil\\Visual_Studio_Applications\\MatrimonyAPI\\Matrimony\\Models\\DTOs\\Country\\CreateCountryDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\Country\\CreateCountryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:03:40.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
