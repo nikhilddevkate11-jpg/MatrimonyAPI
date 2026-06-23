@@ -1,19 +1,12 @@
 ﻿using Matrimony.Models.Entities;
+using Matrimony.Repositories.Generic;
 
 namespace Matrimony.Repositories.Interfaces
 {
-    public interface ICountryRepository
+    public interface ICountryRepository : IGenericRepository<Country>
     {
-        Task<List<Country>> GetAllAsync();
+        Task<bool> ExistsByNameAsync(string name);
 
-        Task<Country?> GetByIdAsync(int id);
-
-        Task AddAsync(Country country);
-
-        Task UpdateAsync(Country country);
-
-        Task DeleteAsync(Country country);
-
-        Task SaveChangesAsync();
+        Task<List<Country>> SearchAsync(string keyword);
     }
 }

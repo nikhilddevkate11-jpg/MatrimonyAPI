@@ -17,6 +17,8 @@ use MatrimonyDB;
 go
 select * from dbo.Users;
 
-go
 select * from dbo.Countries;
 
+truncate table dbo.Users;
+
+truncate table dbo.Countries;

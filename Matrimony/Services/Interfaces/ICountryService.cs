@@ -14,5 +14,7 @@ namespace Matrimony.Services.Interfaces
         Task<ApiResponse<object>> UpdateAsync(int id, UpdateCountryDto dto);
 
         Task<ApiResponse<object>> DeleteAsync(int id);
+
+        Task<ApiResponse<List<CountryDto>>> SearchAsync(string keyword);
     }
 }

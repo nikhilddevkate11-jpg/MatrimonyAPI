@@ -1,9 +1,9 @@
-﻿namespace Matrimony.API.Models.Entities;
+﻿using Matrimony.Models.Entities;
 
-public class User
+namespace Matrimony.API.Models.Entities;
+
+public class User : BaseEntity
 {
-    public int Id { get; set; }
-
     public string FirstName { get; set; } = "";
 
     public string LastName { get; set; } = "";
@@ -13,6 +13,4 @@ public class User
     public string PasswordHash { get; set; } = "";
 
     public string Mobile { get; set; } = "";
-
-    public DateTime CreatedDate { get; set; } = DateTime.Now;
 }

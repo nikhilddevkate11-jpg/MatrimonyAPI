@@ -50,6 +50,13 @@ namespace Matrimony.Services.Implementations
         {
             var country = _mapper.Map<Country>(dto);
 
+            if (await _repository.ExistsByNameAsync(dto.Name))
+            {
+                return new ApiResponse<object>(
+                    false,
+                    "Country already exists.");
+            }
+
             country.IsActive = true;
             country.CreatedDate = DateTime.UtcNow;
 
@@ -72,7 +79,7 @@ namespace Matrimony.Services.Implementations
 
             _mapper.Map(dto, country);
 
-            await _repository.UpdateAsync(country);
+            _repository.Update(country);
             await _repository.SaveChangesAsync();
 
             return new ApiResponse<object>(
@@ -82,19 +89,31 @@ namespace Matrimony.Services.Implementations
 
         public async Task<ApiResponse<object>> DeleteAsync(int id)
         {
-            var country = await _repository.GetByIdAsync(id);
-
-            if (country == null)
+            if (!await _repository.ExistsAsync(id))
+            {
                 return new ApiResponse<object>(
                     false,
                     "Country not found.");
+            }
 
-            await _repository.DeleteAsync(country);
+            await _repository.SoftDeleteAsync(id);
             await _repository.SaveChangesAsync();
 
             return new ApiResponse<object>(
                 true,
                 "Country deleted successfully.");
+        }
+
+        public async Task<ApiResponse<List<CountryDto>>> SearchAsync(string keyword)
+        {
+            var countries = await _repository.SearchAsync(keyword);
+
+            var result = _mapper.Map<List<CountryDto>>(countries);
+
+            return new ApiResponse<List<CountryDto>>(
+                true,
+                "Countries fetched successfully.",
+                result);
         }
     }
 }

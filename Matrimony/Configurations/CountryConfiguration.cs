@@ -20,11 +20,11 @@ namespace Matrimony.Configurations
                    .IsRequired()
                    .HasMaxLength(10);
 
-            builder.Property(x => x.IsActive)
-                   .HasDefaultValue(true);
+            builder.HasIndex(x => x.Name)
+               .IsUnique();
 
-            builder.Property(x => x.CreatedDate)
-                   .HasDefaultValueSql("GETUTCDATE()");
+            builder.HasIndex(x => x.Code)
+               .IsUnique();
         }
     }
 }

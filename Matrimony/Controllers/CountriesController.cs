@@ -46,5 +46,11 @@ namespace Matrimony.Controllers
         {
             return Ok(await _service.DeleteAsync(id));
         }
+
+        [HttpGet("search")]
+        public async Task<IActionResult> Search(string keyword)
+        {
+            return Ok(await _service.SearchAsync(keyword));
+        }
     }
 }
